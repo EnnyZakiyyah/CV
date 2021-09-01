@@ -1,0 +1,24 @@
+
+#page-top {
+    overflow: auto;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("bg.jpg");
+}
+
+#screen{
+    
+}
+
+ul, li a {
+    text-transform: uppercase;
+    color: white;
+}
+
+ul li a.active {
+    color: #475CFD;
+    font-weight: bold;
+}
+
+ul li a:hover {
+    color: #475CFD;
+}
